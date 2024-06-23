@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Insurance calculator web app**
 
-- 🌱 I’m currently learning **EF core, ASP.NET core, react**
+- 🌱 I’m currently learning **Spring Boot, react**
 
 - 📫 How to reach me **simon.kabasta@gmail.com**
 
